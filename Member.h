@@ -1,7 +1,5 @@
 
 
-//#define MEMBER_HPP_
-
 #include <set>
 
 class Member{
